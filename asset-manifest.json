@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://timothy-young.github.io/csb-xclxs/static/css/main.8e7dd9b6.chunk.css",
+    "main.js": "https://timothy-young.github.io/csb-xclxs/static/js/main.643b3595.chunk.js",
+    "main.js.map": "https://timothy-young.github.io/csb-xclxs/static/js/main.643b3595.chunk.js.map",
+    "runtime-main.js": "https://timothy-young.github.io/csb-xclxs/static/js/runtime-main.07ef0389.js",
+    "runtime-main.js.map": "https://timothy-young.github.io/csb-xclxs/static/js/runtime-main.07ef0389.js.map",
+    "static/js/2.9e73ee10.chunk.js": "https://timothy-young.github.io/csb-xclxs/static/js/2.9e73ee10.chunk.js",
+    "static/js/2.9e73ee10.chunk.js.map": "https://timothy-young.github.io/csb-xclxs/static/js/2.9e73ee10.chunk.js.map",
+    "index.html": "https://timothy-young.github.io/csb-xclxs/index.html",
+    "static/css/main.8e7dd9b6.chunk.css.map": "https://timothy-young.github.io/csb-xclxs/static/css/main.8e7dd9b6.chunk.css.map",
+    "static/js/2.9e73ee10.chunk.js.LICENSE.txt": "https://timothy-young.github.io/csb-xclxs/static/js/2.9e73ee10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07ef0389.js",
+    "static/js/2.9e73ee10.chunk.js",
+    "static/css/main.8e7dd9b6.chunk.css",
+    "static/js/main.643b3595.chunk.js"
+  ]
+}
